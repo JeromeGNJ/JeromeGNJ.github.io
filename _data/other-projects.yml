@@ -1,13 +1,25 @@
-- name: Surf Videos
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
-  description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
+- name: AWS Spot Advisor
+  url: http://mationalytics.com/projects.html
+  description: Amazon EC2 Spot instances allow users to bid on spare computing capacity at a discounted rate. However, the availability and pricing of these instances are market-driven and can fluctuate, leading to potential termination of instances with little notice. This project developed an analytics framework to retrieve historical spot price data through Web APIs, build predictive models using linear, polynomial, multiple linear, and KNN regression, and forecast current availability. Data for the current scenario is retrieved through web scraping, with visualization done using ggplot.
   used:
-    - thing: JavaScript
-    - thing: React
-    - thing: React Router
-    - thing: Axios
-    - thing: YouTube API
+    - thing: R
+    - thing: Data analysis
+    - thing: Python
+    - thing: Web scraping
+    - thing: API
+    - thing: Regression models
+    - thing: Data Visualization
+    - thing: ggplot
+
+- name: Campus Ridez
+  url: https://jerome-ozone.github.io/campus_ridez_web/
+  description: Campus Ridez provides accurate tracking information for institution vehicles like college buses, school buses, or pickup shuttles. Users can track the vehicle's location, estimated time of arrival (ETA), and check-in/out times from the campus. The app offers notifications about the ETA every minute and alerts when the vehicle is near, making it easier for users to catch their daily shuttle. It also helps working parents worry less about their children's school bus schedules.
+  used:
+    - thing: Ionic
+    - thing: TypeScript
+    - thing: API
+    - thing: Google APIs
+    - thing: GCP
 
 - name: Macro Economic Analysis
   url: http://mationalytics.com/projects.html
