@@ -11,12 +11,16 @@ resume: https://jeromegnj.github.io/resume.pdf
 social:
   - title: email
     url: mailto:jeromegnj@gmail.com
+  - title: whatsapp
+    url: https://wa.me/919884149885
+  - title: phone
+    url: tel:+919884149885  
   - title: x
     url: https://X.com/jeromegnj
   - title: instagram
     url: http://instagram.com/jeromegnj
-  - title: github
-    url: https://github.com/jeromegnj
+ # - title: github
+  #  url: https://github.com/jeromegnj
   - title: linkedin
     url: https://www.linkedin.com/in/jeromegnj
 
